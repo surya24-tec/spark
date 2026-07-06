@@ -90,14 +90,14 @@ export const projects: Project[] = [
 export const blogs: Blog[] = [
   {
     id: '1',
-    title: 'Own Development Portfolio',
+    title: 'My Development Portfolio',
     description: 'A comprehensive guide to React fundamentals and best practices.',
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=600&fit=crop',
     link: 'https://surya24-tec.github.io/Portfolio/',
   },
   {
     id: '2',
-    title: 'My Development Blog',
+    title: 'A Custom Development Blog',
     description: 'Learn how to create robust and scalable backend APIs.',
     image: 'https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&h=600&fit=crop',
     link: 'https://pavibal.github.io/Portfolio/',
